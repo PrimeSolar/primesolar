@@ -113,7 +113,7 @@
     <img src="assets/coffee.jpg" width="370" height="auto" alt="Buy Me a Coffee"/>
 </a>
 
-&nbsp:&nbsp;Also, here are a few other ways you can help:
+&nbsp;&nbsp;Also, here are a few other ways you can help:
 
 - **Share My Projects**: if you find my work valuable, please share it with your friends, family, or on social media.
 - **Provide Feedback**: I welcome your thoughts and suggestions! Your feedback can help me improve my projects and create even better solutions.
