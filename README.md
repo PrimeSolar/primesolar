@@ -131,6 +131,19 @@
 - **Book Lover**: when I'm not coding, you can find me with my nose in a good book. I enjoy reading varied literature, especially anything related to technology and personal development. Reading reminds me that there’s always more to learn and grow.
 - **Music Explorer**: my taste spans genres from jazz to synthwave. Discovering new artists inspires me to think outside the box.
 
+**Copyright Notice**
+
+Copyright © Vladislav Kazantsev
+All rights reserved.
+This repository contains the intellectual property of Vladislav Kazantsev.
+You are welcome to clone this repository and use the files for exploratory purposes.
+However, unauthorized reproduction, modification, or redistribution of these files (including cloning of this repository or altering it for activities beyond exploratory use) is strictly prohibited.
+Files may be shared only when the original author is explicitly credited and a direct link to the original source of a file is provided alongside it.
+Sharing links to the repository or its files is permitted, except when directed toward retrieval purposes.
+Any form of interaction with this repository or its files is strictly prohibited when facilitated by the code, except when such interaction is for discussion or exchange purposes with others.
+This copyright notice applies globally.
+Email address for inquiries about collaboration, usage outside exploratory purposes, or permissions: [hypervisor7@pm.me](mailto:hypervisor7@pm.me)
+
 ## 💬 Contact Me
 
 &nbsp;&nbsp;LinkedIn [@PepsiCo](https://www.linkedin.com/in/PepsiCo/)
