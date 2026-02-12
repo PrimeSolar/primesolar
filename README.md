@@ -6,7 +6,7 @@
 
 - [👋 Welcome!](#-welcome)
   - [📈 GitHub Stats](#-github-stats)
-  - [👨‍💻 Personal Website](#-personal-website)
+  - [:man\_technologist: Personal Website](#man_technologist-personal-website)
   - [💡 About Me](#-about-me)
   - [🛠️ Languages, Technologies \& Tools](#️-languages-technologies--tools)
   - [✨ Featured Projects](#-featured-projects)
@@ -24,14 +24,14 @@
 <img alt="GitHub Most Used Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeSolar&layout=compact"/>
 </p>
 
-## 👨‍💻 Personal Website
+## :man_technologist: Personal Website
 
 **https://primesolar.github.io/web-developer/**
 
 ## 💡 About Me
 
 - 🌍 Based in Europe.
-- 💻 Proficient in: HTML, CSS, JavaScript, jQuery, EJS, Express, Node.js, SQL, and more!
+- 💻 Proficient in: HTML5, CSS3, JavaScript, jQuery ([the most popular JavaScript library in the world](https://w3techs.com/technologies/overview/javascript_library), used by Microsoft, Yahoo, Spotify, Samsung and many others), Node.js, Express, EJS, Tailwind CSS, Bootstrap (used by Cloudflare, Spotify, Samsung, BBC and many others), Twig, SQL, and more!
 - 🎓 Engineer Degree from Technological University.
 - 📚 Ask me about web development, modern tools, and tech trends!
 
@@ -40,9 +40,9 @@
 - **Languages:**
   - English, French, Croatian.
 - **Front-End:**
-  - HTML5, CSS3, SASS, Bootstrap, JavaScript, jQuery.
+  - JavaScript, jQuery, HTML5, CSS3, SASS, Bootstrap, Tailwind CSS.
 - **Back-End:**
-  - Node.js, Express, EJS, SQL, PostgreSQL.
+  - Node.js, Express, EJS, Twig, SQL, PostgreSQL.
 - **DevOps:**
   - Git, CI/CD, Jenkins, Docker.
 - **Design:**
@@ -51,7 +51,7 @@
   - Markdown, Swagger, JSON, XML, REST API.
   - Layout Techniques: Grid, Flexbox, Responsive Design.
   - Development Practices: Cross-Browser Development, Pixel Perfect.
-  - Programming Concepts: OOP (Object-Oriented Programming).
+  - Programming Concepts: OOP (Object-Oriented Programming), FP (Functional Programming).
   - Tools: Visual Studio Code, Oxygen XML Editor.
   - Modeling: BPMN (Business Process Model and Notation), DFD (Data Flow Diagram).
 
@@ -65,10 +65,11 @@
 
 - **Description:** my web application designed to provide users with real-time tracking of cryptocurrency prices, making it an essential tool for investors, traders, and enthusiasts.
 - **Technologies Used:**
-  - **HTML5**: for structuring the web application, ensuring semantic markup and improved SEO.
-  - **CSS3**: for styling and layout, including responsive design techniques that enhance user experience across devices.
-  - **JavaScript**: for dynamic content updates and user interactions, providing a smooth and interactive experience.
+  - **JavaScript**: a programming language for dynamic content updates and user interactions, providing a smooth and interactive experience.
   - **APIs**: the web application utilizes the CoinGecko API for fetching real-time cryptocurrency data, ensuring accurate and up-to-date information. Also, it integrates CoinTelegraph's RSS feed to provide the latest cryptocurrency news.
+  - **HTML5**: a markup language for structuring the web application, ensuring semantic markup and improved SEO.
+  - **CSS3**: a style sheet language for styling and layout, including responsive design techniques that enhance user experience across devices.
+  - **Tailwind CSS**: a framework used for consistent UI construction. It provides a collection of CSS utility classes, supports responsive design, and is highly configurable.
 - [**Live Demo**](https://primesolar.github.io/cryptocurrency-tracker/)
 
 ### [🚚 Move It](https://github.com/PrimeSolar/move-it)
@@ -79,11 +80,11 @@
 
 - **Description:** my web application designed to revolutionize the moving experience! The goal is to provide exceptional moving services through a user-friendly website that simplifies the entire process. Explore the platform today to discover how it can help with all moving needs.
 - **Technologies Used:**
-  - **HTML5**: for structuring the web application, ensuring semantic markup and improved SEO.
-  - **CSS3**: for styling and layout, including responsive design techniques that enhance user experience across devices.
-  - **JavaScript**: for dynamic content updates and user interactions, providing a smooth and interactive experience.
-  - **Bootstrap**: a powerful frontend framework for efficient development and responsive design, offering a robust grid system and pre-designed components that streamline the creation of visually appealing and mobile-friendly interfaces.
-- [**Live Demo**](https://primesolar.github.io/move-it/)
+  - **JavaScript**: a programming language for dynamic content updates and user interactions, providing a smooth and interactive experience.
+  - **HTML5**: a markup language for structuring the web application, ensuring semantic markup and improved SEO.
+  - **CSS3**: a style sheet language for styling and layout, including responsive design techniques that enhance user experience across devices.
+  - **Bootstrap**: a powerful frontend framework for efficient development and responsive design, offering a robust grid system and pre-designed components that streamline the creation of visually appealing and mobile-friendly interfaces, ensuring that the application is user-friendly across devices.
+- [**Live Demo**](https://primesolar.github.io/move-it/).
 
 ### [🌊 Ocean-Minded](https://github.com/PrimeSolar/ocean-minded)
 
@@ -93,12 +94,16 @@
 
 - **Description:** my web application designed for a travel company that specializes in creating wonderful experiences that connect clients with the beauty of the ocean world.
 - **Technologies Used:**
-  - **HTML5**: for structuring the web application, ensuring semantic markup and improved SEO.
-  - **CSS3**: for styling and layout, including responsive design techniques that enhance user experience across devices.
-  - **JavaScript**: for dynamic content updates and user interactions, providing a smooth and interactive experience.
   - **Node.js**: a JavaScript runtime built on Chrome's V8 engine that allows me to execute JavaScript on the server side. It enables the development of scalable and high-performance applications, leveraging non-blocking I/O and an event-driven architecture to handle multiple connections simultaneously.
   - **Express.js**: a Node.js web application framework that provides a robust set of features for building web and mobile applications. It simplifies the development process by offering a variety of middleware to handle requests, responses, and routing efficiently.
   - **EJS**: a templating engine that allows me to generate HTML markup with plain JavaScript. It enables dynamic content rendering on the server side, making it easy to create reusable templates and maintain a clean separation between my application logic and presentation.
+  - **JavaScript**: a programming language for dynamic content updates and user interactions, providing a smooth and interactive experience.
+  - **jQuery**: a fast and lightweight JavaScript library that simplifies HTML document traversing and event handling. jQuery allows for easy manipulation of the Document Object Model (DOM). It also provides methods for handling events, making it straightforward to create the responsive user interface that can react to actions.
+  - **Twig**: a modern template engine for PHP that can be utilized in Node.js environments as an npm library. In this application, Twig is used to render templates dynamically, enhancing the code by providing a clean separation between presentation and logic. It integrates seamlessly with Express, allowing the application to leverage templating capabilities while managing routing and API calls effectively.
+  - **APIs**: the web application effectively and extensively utilizes well-structured APIs through its Express routes and middleware, allowing for dynamic content rendering, smooth user interaction, and content management. Each route defined in the application serves as a unique API endpoint, responding to specific requests from clients. The API's responsiveness to user actions enhances engagement.
+  - **HTML5**: a markup language for structuring the web application, ensuring semantic markup and improved SEO.
+  - **CSS3**: a style sheet language for styling and layout, including responsive design techniques that enhance user experience across devices.
+  - **Bootstrap**: a powerful frontend framework for efficient development and responsive design, offering a robust grid system and pre-designed components that streamline the creation of visually appealing and mobile-friendly interfaces, ensuring that the application is user-friendly across devices.
 - [**Live Demo**](https://ocean-minded.onrender.com/)
 
 ## ☕ Support My Work
