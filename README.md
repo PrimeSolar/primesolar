@@ -1,175 +1,36 @@
-# 👋 Welcome!
+# Hi, I'm Vladislav
 
-&nbsp;&nbsp;I'm a passionate web developer dedicated to crafting **beautiful, responsive, and user-friendly web applications** that inspire and engage. My journey in the tech landscape began when I built my first website. That experience sparked my **joyful passion** for diving deep into user needs and turning those insights into exciting and impactful **digital solutions** that truly enhance their experiences.
+Senior Technical Writer and Documentation Engineer with 7 years of commercial experience documenting software and hardware, including 4 years building web-based documentation tools. I have written **hundreds interactive technical documents**, including API references, installation and configuration manuals, and implementation guides.
 
-&nbsp;&nbsp;What sets me apart is my commitment to creating technology that empowers individuals and communities. I believe that every line of code can make a difference! When I'm not coding, you can find me exploring the latest tech trends or enjoying outdoor adventures, where I can find inspiration for my next project.
+I'm focusing on:
 
-- [👋 Welcome!](#-welcome)
-  - [📈 GitHub Stats](#-github-stats)
-  - [:man\_technologist: Personal Website](#man_technologist-personal-website)
-  - [💡 About Me](#-about-me)
-  - [🛠️ Languages, Technologies \& Tools](#️-languages-technologies--tools)
-  - [✨ Featured Projects](#-featured-projects)
-    - [💰 Cryptocurrency Tracker](#-cryptocurrency-tracker)
-    - [🚚 Move It](#-move-it)
-    - [🌊 Ocean-Minded](#-ocean-minded)
-  - [☕ Support My Work](#-support-my-work)
-  - [🎉 Fun Facts](#-fun-facts)
-  - [💬 Contact Me](#-contact-me)
+- **Docs-as-Code**: Markdown, Git, GitHub, GitLab, Jenkins, Docker.
+- **Database documentation**: PostgreSQL, schema design, data catalogs.
+- **API documentation**: REST, Swagger/OpenAPI, JSON.
 
-## 📈 GitHub Stats
+I'm able to verify every command I document by running it. I read source code and work directly with engineers to keep documentation accurate and usable.
 
-<p align="center">
-<img alt="GitHub Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrimeSolar&theme=github"/>
-<img alt="GitHub Most Used Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeSolar&layout=compact"/>
-</p>
+Open to Technical Writer, Documentation Engineer, and PostgreSQL documentation roles. Based in Belgrade, Serbia, with permanent residence permit and official work authorization, I'm happy to discuss on-site, hybrid, remote, or relocation options.
 
-## :man_technologist: Personal Website
+## Education
 
-**https://primesolar.github.io/web-developer/**
+**University degree**: engineer degree from technological university. GPA: 4.6/5.0. Technical foundation in systems engineering and infrastructure design. Data analysis, systems modeling, and complex infrastructure management provided core skills that transferred directly to full stack development and technical architecture: systems thinking, performance optimization, and scalability. This engineering background informs my approach to web development, database architecture, and documentation of technical complexity - explaining how sophisticated, high-load, distributed systems actually work.
 
-## 💡 About Me
+## Skills
 
-- 🌍 Based in Europe.
-- 💻 Proficient in: Node.js, Express, EJS, JS (JavaScript,
-  a foundational programming language for web development), jQuery ([the most popular JavaScript library in the world](https://w3techs.com/technologies/overview/javascript_library), used by Microsoft, Spotify, and many others), Twig, SQL, HTML5, CSS3, Bootstrap, Tailwind CSS, and more!
-- 🎓 Engineer Degree from Technological University.
-- 📚 Ask me about web development, modern tools, and tech trends!
+- **Documentation and tooling**: Documentation websites, Docs-as-Code, Technical content, Schema design documentation, Markdown, Git, GitHub, GitLab, Jenkins, CI/CD, Docker, Oxygen XML Editor, Confluence, Jira, Visual Studio Code, DevTools.
+- **Data**: PostgreSQL, SQL (database architecture, data relationships, complex data systems), JSON, XML, data catalogs.
+- **API**: REST, REST API, Swagger/OpenAPI.
+- **Information architecture and diagrams**: draw.io, Lucidchart, Microsoft Visio, BPMN, DFD, Figma, AutoCAD.
+- **Web**: JavaScript, Node.js, Express, EJS, Twig, HTML5, CSS3, Tailwind CSS, Bootstrap, SASS, jQuery, Web APIs, RSS, Responsive Design, Flexbox, Grid, Cross-Browser Development, Asynchronous Programming, Web Performance Optimization, Security Best Practices, Pixel Perfect.
+- **Programming concepts**: OOP (Object-Oriented Programming), FP (Functional Programming).
 
-## 🛠️ Languages, Technologies & Tools
+## Languages
 
-- **Languages:**
-  - English, French, Serbian, Croatian.
-- **Frontend:**
-  - JS (JavaScript), jQuery, Web APIs, HTML5, CSS3, SASS, Bootstrap, Tailwind CSS.
-- **Backend:**
-  - Node.js, Express, EJS, Twig, SQL, PostgreSQL.
-- **DevOps:**
-  - Git, CI/CD, Jenkins, Docker.
-- **Design:**
-  - Figma, Lucidchart, Microsoft Visio, draw.io, AutoCAD.
-- **Additional Skills**:
-  - Markdown, Swagger, JSON, XML, RSS, REST API.
-  - Layout Techniques: 
-    - Responsive Design.
-    - Flexbox.
-    - Grid.
-  - Development Practices:
-    - Cross-Browser Development.
-    - Asynchronous Programming.
-    - Web Performance Optimization.
-    - Security Best Practices.
-    - Pixel Perfect.
-  - Programming Concepts:
-    - OOP (Object-Oriented Programming).
-    - FP (Functional Programming).
-  - Tools: 
-    - Visual Studio Code.
-    - Oxygen XML Editor.
-    - DevTools.
-  - Modeling: 
-    - AutoCAD.
-    - BPMN (Business Process Model and Notation).
-    - DFD (Data Flow Diagram).
+English, French, Russian, Serbian.
 
-## ✨ Featured Projects
+## Contact Me
 
-### [💰 Cryptocurrency Tracker](https://github.com/PrimeSolar/cryptocurrency-tracker)
+&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/PepsiCo/)
 
-<!--prettier-ignore-->
-<img alt="Cryptocurrency Tracker" src="https://raw.githubusercontent.com/PrimeSolar/cryptocurrency-tracker/refs/heads/main/assets/interface.png"/>
-<p align="center"><em>The Cryptocurrency Tracker Interface</em></p>
-
-- **Description:** my application designed to provide users with real-time tracking of cryptocurrency prices, making it an essential tool for investors, traders, and enthusiasts.
-- **Technologies Used:**
-  - **JS (JavaScript)**: a foundational programming language for web development. It powers dynamic web interactions, enables complex client-side functionality, supports modern web standards, and facilitates responsive, interactive user experiences through event-driven programming and asynchronous operations.
-  - **jQuery**: a fast and lightweight JavaScript library that simplifies HTML document traversing and event handling. jQuery allows for easy manipulation of the DOM (Document Object Model). It also provides methods for handling events, making it straightforward to create the responsive user interface that can react to actions.
-  - **API**: the application utilizes the CoinGecko API for fetching real-time cryptocurrency data, ensuring accurate and up-to-date information.
-  - **RSS**: the application integrates CoinTelegraph's RSS feed to provide the latest cryptocurrency news.
-  - **HTML5**: a markup language for structuring the application, ensuring semantic markup and improved SEO.
-  - **CSS3**: a style sheet language for styling and layout, including responsive design techniques that enhance user experience across devices.
-  - **Tailwind CSS**: a framework used for consistent UI construction. It provides a collection of CSS utility classes, supports responsive design, and is highly configurable.
-- [**Live Demo**](https://primesolar.github.io/cryptocurrency-tracker/)
-
-### [🚚 Move It](https://github.com/PrimeSolar/move-it)
-
-<!--prettier-ignore-->
-<img alt="Move It" src="https://raw.githubusercontent.com/PrimeSolar/move-it/refs/heads/main/assets/interface.jpg"/>
-<p align="center"><em>The Move It Interface</em></p>
-
-- **Description:** my web application designed to revolutionize the moving experience! The goal is to provide exceptional moving services through a user-friendly website that simplifies the entire process. Explore the platform today to discover how it can help with all moving needs.
-- **Technologies Used:**
-  - **JS (JavaScript)**: a foundational programming language for web development. It powers dynamic web interactions, enables complex client-side functionality, supports modern web standards, and facilitates responsive, interactive user experiences through event-driven programming and asynchronous operations.
-  - **HTML5**: a markup language for structuring the web application, ensuring semantic markup and improved SEO.
-  - **CSS3**: a style sheet language for styling and layout, including responsive design techniques that enhance user experience across devices.
-  - **Bootstrap**: a powerful frontend framework for efficient development and responsive design, offering a robust grid system and pre-designed components that streamline the creation of visually appealing and mobile-friendly interfaces, ensuring that the application is user-friendly across devices.
-- [**Live Demo**](https://primesolar.github.io/move-it/).
-
-### [🌊 Ocean-Minded](https://github.com/PrimeSolar/ocean-minded)
-
-<!--prettier-ignore-->
-<img alt="Ocean-Minded" src="https://raw.githubusercontent.com/PrimeSolar/ocean-minded/refs/heads/main/public/images/interface.jpg"/>
-<p align="center"><em>The Ocean-Minded Interface</em></p>
-
-- **Description:** my web application designed for a travel company that specializes in creating wonderful experiences that connect clients with the beauty of the ocean world.
-- **Technologies Used:**
-  - **Node.js**: a JavaScript runtime built on Chrome's V8 engine that allows me to use JS (JavaScript) on the server side. It enables the development of scalable and high-performance applications, leveraging non-blocking I/O and an event-driven architecture to handle multiple connections simultaneously.
-  - **Express.js**: a Node.js web application framework that provides a robust set of features for building web and mobile applications. It simplifies the development process by offering a variety of middleware to handle requests, responses, and routing efficiently.
-  - **EJS**: a templating engine that allows me to generate HTML markup with JS (JavaScript). It enables dynamic content rendering on the server side, making it easy to create reusable templates and maintain a clean separation between my application logic and presentation.
-  - **JS (JavaScript)**: a foundational programming language for web development. It powers dynamic web interactions, enables complex client-side functionality, supports modern web standards, and facilitates responsive, interactive user experiences through event-driven programming and asynchronous operations.
-  - **jQuery**: a fast and lightweight JavaScript library that simplifies HTML document traversing and event handling. jQuery allows for easy manipulation of the DOM (Document Object Model). It also provides methods for handling events, making it straightforward to create the responsive user interface that can react to actions.
-  - **Twig**: a modern template engine for PHP that can be utilized in Node.js environments as an npm library. In this application, Twig is used to render templates dynamically, enhancing the code by providing a clean separation between presentation and logic. It integrates seamlessly with Express, allowing the application to leverage templating capabilities while managing routing and API calls effectively.
-  - **APIs**: the web application effectively and extensively utilizes well-structured API through its Express routes and middleware, allowing for dynamic content rendering, smooth user interaction, and content management. Each route defined in the application serves as a unique API endpoint, responding to specific requests from clients.
-  - **HTML5**: a markup language for structuring the web application, ensuring semantic markup and improved SEO.
-  - **CSS3**: a style sheet language for styling and layout, including responsive design techniques that enhance user experience across devices.
-  - **Bootstrap**: a powerful frontend framework for efficient development and responsive design, offering a robust grid system and pre-designed components that streamline the creation of visually appealing and mobile-friendly interfaces, ensuring that the application is user-friendly across devices.
-- [**Live Demo**](https://ocean-minded.onrender.com/)
-
-## ☕ Support My Work
-
-&nbsp;&nbsp;If you enjoy my projects and would like to support my work, consider buying me a coffee! Your contributions help me stay energized and motivated to create even more amazing content.
-
-&nbsp;&nbsp;Every cup of coffee you buy not only fuels my passion but also allows me to dedicate more time to developing innovative projects and sharing knowledge. Whether it's a small gesture or a generous contribution, every bit is greatly appreciated!
-
-**Click the image to support my work:**
-
-<a href="https://coff.ee/cocacola">
-    <img src="assets/coffee.jpg" width="370" height="auto" alt="Buy Me a Coffee"/>
-</a>
-
-&nbsp;&nbsp;Also, here are a few other ways you can help:
-
-- **Share My Projects**: if you find my work valuable, please share it with your friends, family, or on social media.
-- **Provide Feedback**: I welcome your thoughts and suggestions! Your feedback can help me improve my projects and create even better solutions.
-- **Follow Me**: stay updated on my latest projects and tech insights by following me on GitHub and LinkedIn. Your support encourages me to keep creating!
-- **Engage with My Content**: like, comment and engage with my posts. Your interactions help boost visibility and foster a vibrant community around my work.
-
-&nbsp;&nbsp;Thank you for your support! Together, we can create something wonderful! 💖
-
-## 🎉 Fun Facts
-
-- **Adventurer**: I love exploring the great outdoors! Whether it's hiking in the mountains or kayaking on a serene lake, being in nature recharges my creativity and reminds me how vast the world is.
-- **Tech Expert**: I'm always on the lookout for the latest tech trends. I enjoy attending tech meetups and conferences to connect with like-minded individuals.
-- **Coffee Admirer**: I have a passion for coffee! A good cup of coffee fuels my creativity. There’s something special about brewing that perfect cup before a coding session.
-- **Travel Enthusiast**: I love traveling and experiencing new cultures. Each trip broadens my perspective and sparks fresh ideas I bring back to my development work.
-- **Book Lover**: when I'm not coding, you can find me with my nose in a good book. I enjoy reading varied literature, especially anything related to technology and personal development. Reading reminds me that there’s always more to learn and grow.
-- **Music Explorer**: my taste spans genres from jazz to synthwave. Discovering new artists inspires me to think outside the box.
-
-**Copyright Notice**
-
-Copyright © Vladislav Kazantsev
-All rights reserved.
-This repository contains the intellectual property of Vladislav Kazantsev.
-You are welcome to clone this repository and use the files for exploratory purposes.
-However, unauthorized reproduction, modification, or redistribution of these files (including cloning of this repository or altering it for activities beyond exploratory use) is strictly prohibited.
-Files may be shared only when the original author is explicitly credited and a direct link to the original source of a file is provided alongside it.
-Sharing links to the repository or its files is permitted, except when directed toward retrieval purposes.
-Any form of interaction with this repository or its files is strictly prohibited when facilitated by the code, except when such interaction is for discussion or exchange purposes with others.
-This copyright notice applies globally.
-Email address for inquiries about collaboration, usage outside exploratory purposes, or permissions: [hypervisor7@pm.me](mailto:hypervisor7@pm.me)
-
-## 💬 Contact Me
-
-&nbsp;&nbsp;LinkedIn [@PepsiCo](https://www.linkedin.com/in/PepsiCo/)
-
-![Animated Text](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Internet+Sommelier;Passionate+Athlete;Caring+Environmentalist;Human)
+![Animated Text](https://readme-typing-svg.demolab.com/?lines=Senior+Technical+Writer;Documentation+Engineer;PostgreSQL+Databases;PostgreSQL+Documentation;Scalable+Documentation;JavaScript;HTML;Markdown;Docs-as-Code;Git;Human)
