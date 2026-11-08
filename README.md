@@ -18,7 +18,7 @@ Open to Technical Writer, Documentation Engineer, and PostgreSQL documentation r
 
 ## Skills
 
-- **Documentation and tooling**: Documentation websites, Docs-as-Code, Technical content, Schema design documentation, Markdown, Git, GitHub, GitLab, Jenkins, CI/CD, Docker, Oxygen XML Editor, Confluence, Jira, Visual Studio Code, DevTools.
+- **Documentation and tooling**: Docs-as-Code, documentation websites, technical content, schema design documentation, Markdown, Git, GitHub, GitLab, Jenkins, CI/CD, Docker, Oxygen XML Editor, Confluence, Jira, Visual Studio Code, DevTools.
 - **Data**: PostgreSQL, SQL (database architecture, data relationships, complex data systems), JSON, XML, data catalogs.
 - **API**: REST, REST API, Swagger/OpenAPI.
 - **Information architecture and diagrams**: draw.io, Lucidchart, Microsoft Visio, BPMN, DFD, Figma, AutoCAD.
